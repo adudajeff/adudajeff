@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @adudajeff
+- 👀 I’m interested in ...Software Development and UX/UI
+- 🌱 I’m currently learning ...AI
+- 💞️ I’m looking to collaborate on ...AI projects and ui/ux projects and other software development open source

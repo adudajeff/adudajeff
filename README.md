@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @adudajeff
 - 👀 I’m interested in ...Software Development and UX/UI
-- 🌱 I’m currently learning ...AI,javascript,c#,python,java
+- 🌱 I’m currently Developing in ...javascript,c#,python,java
 - 💞️ I’m looking to collaborate on ...javascript,c# , java projects and ui/ux projects and other software development open source
